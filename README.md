@@ -22,4 +22,4 @@ From the results, there were significantly more non-Vine reviews than Vine revie
 ## Summary
 From the results, it was found that the percentage of 5-star reviews from Vine members was about 10% higher than the percentage of 5-star reviews from non-Vine members. This value suggest positivity bias for reviews from Vine members. Additional analysis could be performed to support this statement from the other columns in the original dataset. Review_headline and review_body could be analyzed with the Natural Language Processing pipeline for further insight from comments left by Vine and non-Vine customers.  
 
-![further_analysis.png](https://github.com/daniel-sh-au/UofT_DataBC_Module16_Amazon_Vine_Analysis/blob/main/Resources/further_analysis.png)
+![further_analysis_reviews.png](https://github.com/daniel-sh-au/UofT_DataBC_Module16_Amazon_Vine_Analysis/blob/main/Resources/further_analysis_reviews.png)
